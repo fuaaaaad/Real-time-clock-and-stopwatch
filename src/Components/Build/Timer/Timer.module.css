@@ -1,0 +1,9 @@
+.Timer {
+    font-size: 50px;
+    border: black 20px;
+
+}
+.Timer p{
+    padding: 10px 40px;
+    display: inline-block;
+}

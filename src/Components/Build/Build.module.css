@@ -1,0 +1,66 @@
+.Build{
+    align-items: center;
+    display: inline-block;
+    padding: 50px;
+}
+
+
+  .Play {
+    background-color: rgb(105, 105, 248);
+    border: black 1px solid;
+    color: white;
+    padding: 20px;
+    display: inline-block;
+    width: 100%;
+    align-self: center;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  .Play:hover{
+    background-color: rgb(153, 153, 238) ;
+    border: black;
+    color: rgba(0, 0, 0, 0.548);
+  }
+
+  .Pause {
+    background-color: rgb(241, 166, 115);
+    border: black 1px solid;
+    color: white;
+    padding: 20px;
+    display: inline-block;
+    width: 100%;
+    align-self: center;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  .Pause:hover{
+    background-color: rgb(247, 211, 187) ;
+    border: black;
+    color: rgba(0, 0, 0, 0.548);
+  }
+
+  .Reset {
+    background-color: white;
+    border: black 1px solid;
+    color: black;
+    padding: 20px;
+    display: inline-block;
+    width: 100%;
+    align-self: center;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  .Reset:hover{
+    background-color: rgb(0, 0, 0) ;
+    border: black;
+    color: white;
+  }
